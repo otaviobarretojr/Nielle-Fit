@@ -1,0 +1,18 @@
+const DATA={A:{title:'Superiores + Core',items:[
+['Puxada na frente','Costas','2–3','10–12','Peito aberto, ombros longe das orelhas e cotovelos apontando para baixo. Puxe sem balançar o tronco e controle a volta.','Puxada articulada com pegada neutra.','Mesmo padrão de puxada vertical. Fácil de ajustar.',0,0],
+['Supino na máquina','Peito','2–3','10–12','Mantenha costas e escápulas apoiadas. Empurre suavemente, sem travar os cotovelos, e controle o retorno.','Peck deck / crucifixo na máquina.','Mantém o foco no peitoral com movimento guiado.',1,0],
+['Remada baixa sentada','Costas','2–3','10–12','Coluna neutra e peito aberto. Puxe em direção ao abdômen, levando os cotovelos para trás sem jogar o corpo.','Remada articulada com apoio para o peito.','Opção estável e fácil na adaptação.',2,0],
+['Elevação lateral com halteres','Ombros','2–3','10–12','Use halteres leves. Cotovelos discretamente flexionados e subida controlada até a linha dos ombros.','Elevação lateral na máquina.','Mantém o foco nos ombros com mais estabilidade.',3,0],
+['Prancha isométrica','Abdômen / Core','2–3','20–30 s','Contraia abdômen e glúteos, mantenha o corpo alinhado e respire normalmente. Comece com poucos segundos se necessário.','Abdominal na máquina.','Alternativa guiada e simples para o core.',0,1]]},
+B:{title:'Inferiores + Glúteos',items:[
+['Leg press 45°','Quadríceps + Glúteos','2–3','10–12','Mantenha costas e quadril apoiados. Joelhos acompanham a direção dos pés e não precisam esticar totalmente no topo.','Leg press horizontal.','Mesmo grupo muscular e base estável.',1,1],
+['Cadeira extensora','Quadríceps','2–3','10–12','Alinhe os joelhos com o eixo da máquina e estenda as pernas sem impulso. Controle a descida.','Agachamento para banco com peso do corpo.','Alternativa simples quando a máquina estiver ocupada.',2,1],
+['Cadeira flexora','Posterior de coxa','2–3','10–12','Mantenha o quadril apoiado e flexione os joelhos devagar. Evite levantar o corpo do encosto.','Mesa flexora.','Substituição direta para posteriores de coxa.',3,1],
+['Cadeira abdutora','Glúteos','2–3','10–12','Mantenha costas apoiadas e abra as pernas sem impulso. Faça pequena pausa e retorne devagar.','Abdução de quadril no cabo com apoio.','Mesmo grupo muscular com carga leve e controle.',0,2],
+['Panturrilha em pé','Panturrilhas','2–3','12–15','Suba os calcanhares, faça pequena pausa no alto e desça devagar. Evite quicar.','Panturrilha sentada.','Fácil de encontrar e trabalha o mesmo grupo.',1,2]]},
+C:{title:'Corpo todo',items:[
+['Agachamento no Smith','Pernas + Glúteos','2–3','10–12','Use pouca carga, mantenha os pés firmes e desça apenas até onde se sentir estável. Joelhos acompanham a direção dos pés.','Leg press horizontal.','Alternativa estável para pernas e glúteos.',2,2],
+['Desenvolvimento na máquina','Ombros','2–3','10–12','Mantenha as costas apoiadas e empurre acima da cabeça sem exagerar no arco da lombar. Use carga leve.','Desenvolvimento sentado com halteres leves.','Boa troca quando a máquina estiver ocupada.',3,2],
+['Puxada alta com triângulo','Costas','2–3','10–12','Peito aberto e tronco estável. Puxe o triângulo em direção à parte alta do peito e controle a subida.','Puxada na frente com barra aberta.','Continua sendo uma puxada vertical para as costas.',0,0],
+['Glúteo na máquina (kickback)','Glúteos','2–3','10–12 cada perna','Mantenha tronco e pelve firmes. Empurre a perna para trás pelo quadril e volte devagar.','Extensão de quadril no cabo.','Mesmo padrão de movimento e fácil de montar.',1,3],
+['Abdominal na máquina','Abdômen / Core','2–3','12–15','Use carga leve, solte o ar ao contrair e faça o movimento pelo abdômen. Evite puxar o pescoço.','Abdominal curto no solo.','Alternativa simples e sem depender de aparelho.',0,3]]}};
